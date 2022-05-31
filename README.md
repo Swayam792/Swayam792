@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swayam Prakash Barik</h1>
 <h3 align="center">A passionate coder....</h3>
 
-- 🌱 I’m currently learning **Django and ReactJs**
+- 🌱 I’m currently learning **NodeJs and ReactJs**
 
 - 📫 How to reach me **prakashswayam792@gmail.com**
 
