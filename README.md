@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swayam Prakash Barik</h1>
 <h3 align="center">A passionate competitive coder and web developer from India</h3>
 
-- 🔭 I’m currently working on **Mern Stack Project**
-
-- 🌱 I’m currently learning **Nodejs and Reactjs**
+- 🔭 I’m currently working on **Mern Stack Project** 
 
 - 📫 How to reach me **prakashswayam792@gmail.com**
 
